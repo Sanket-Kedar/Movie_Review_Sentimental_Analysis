@@ -16,8 +16,6 @@ Balanced dataset (25,000 positive & 25,000 negative reviews).
 
 Preprocessed by tokenization and padding to maintain uniform input size.
 
-<h2>Installation & Setup</h2>
-
 ## How to Run the Application
 
 To run the movie_review sentiment analyzer:
